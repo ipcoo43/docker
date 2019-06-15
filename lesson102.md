@@ -1,8 +1,8 @@
 # docker 설치하기
 - 우분투
->> apt-get update
->> apt-get install docker.io
->> ln -sf /usr/bin/docker.id /usr/local/bin/docker
+	- apt-get update
+	- apt-get install docker.io
+	- ln -sf /usr/bin/docker.id /usr/local/bin/docker
 
 # docker 명령어
 - docker search : 이미지 검색
